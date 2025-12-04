@@ -4,7 +4,7 @@
 
 ### (Categorized + Explained)
 
-# 1️⃣ **Basic Statistical Plots**
+# **Basic Statistical Plots**
 
 ### *For understanding distributions & summary statistics.*
 
@@ -37,7 +37,7 @@
 
 ---
 
-# 2️⃣ **Categorical Data Visualizations**
+# **Categorical Data Visualizations**
 
 * Bar Chart
 * Grouped Bar Chart
@@ -54,7 +54,7 @@
 
 ---
 
-# 3️⃣ **Time-Series Plots**
+# **Time-Series Plots**
 
 * Line Chart
 * Multi-Line Time Series
@@ -71,7 +71,7 @@
 
 ---
 
-# 4️⃣ **Advanced Statistical Plots**
+# **Advanced Statistical Plots**
 
 * QQ Plot
 * PP Plot
@@ -86,7 +86,7 @@
 
 ---
 
-# 5️⃣ **Multivariate Data Plots**
+# **Multivariate Data Plots**
 
 * Pair Plot (scatter matrix)
 * Parallel Coordinates Plot
@@ -103,7 +103,7 @@
 
 ---
 
-# 6️⃣ **Correlation, Relationship, and ML EDA Plots**
+# **Correlation, Relationship, and ML EDA Plots**
 
 * Correlation Matrix Heatmap
 * Correlogram
@@ -123,7 +123,7 @@
 
 ---
 
-# 7️⃣ **Machine Learning Model Interpretation**
+# **Machine Learning Model Interpretation**
 
 ### Feature Insight
 
@@ -148,7 +148,7 @@
 
 ---
 
-# 8️⃣ **Neural Network & Deep Learning Visualizations**
+# **Neural Network & Deep Learning Visualizations**
 
 * Activation Distribution Plot
 * Weight Distribution Plot
@@ -162,7 +162,7 @@
 
 ---
 
-# 9️⃣ **Dimensionality Reduction Plots**
+# **Dimensionality Reduction Plots**
 
 * PCA Scree Plot
 * PCA Biplot
@@ -176,7 +176,7 @@
 
 ---
 
-# 🔟 **Complex-Valued Data & Signal Processing Plots**
+# **Complex-Valued Data & Signal Processing Plots**
 
 ### (Useful since you work with complex-valued networks.)
 
@@ -204,7 +204,7 @@
 
 ---
 
-# 1️⃣1️⃣ **Geospatial / Geographic Visualizations**
+# **Geospatial / Geographic Visualizations**
 
 * Choropleth Map
 * Heatmap Map
@@ -219,7 +219,7 @@
 
 ---
 
-# 1️⃣2️⃣ **Network / Graph Data Plots**
+# **Network / Graph Data Plots**
 
 * Node-Link Diagram
 * Force-Directed Graph
@@ -233,7 +233,7 @@
 
 ---
 
-# 1️⃣3️⃣ **Text, NLP & Language Model Visualizations**
+# **Text, NLP & Language Model Visualizations**
 
 * Word Cloud
 * Word Count Bar Plot
@@ -247,7 +247,7 @@
 
 ---
 
-# 1️⃣4️⃣ **Business, Finance & Dashboard Visualizations**
+# **Business, Finance & Dashboard Visualizations**
 
 * Waterfall Chart
 * Funnel Chart
@@ -262,7 +262,7 @@
 
 ---
 
-# 1️⃣5️⃣ **Interactive / Modern Visualization Types**
+# **Interactive / Modern Visualization Types**
 
 * Plotly Interactive Scatter
 * Interactive 3D Surface
@@ -274,7 +274,7 @@
 
 ---
 
-# 1️⃣6️⃣ **Rare / Specialized Plots**
+# **Rare / Specialized Plots**
 
 * Ternary Plot (3-component composition)
 * Quiver Plot (vector fields)
